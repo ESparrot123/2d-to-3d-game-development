@@ -2,29 +2,46 @@
 
 ## About the Project
 
-This project involved transforming a 2D game concept into a 3D endless-runner style game.
+This project was developed as part of my internship at Hope Foundation.
+The project focused on game development using Python and related libraries.
 
 ## Technologies Used
 
 - Python
-- PyOpenGL
 - Pygame
+- PyOpenGL
 - OBJ Loader
 
-## Features
+## Project Features
 
 - Player movement
-- Obstacles
+- Asteroids and obstacles
 - Collision detection
+- Explosion effects
+- Power-ups
+- Shield functionality
+- Weapons
 - Score tracking
-- 3D game environment
+- Background effects
+- Sprite and spritesheet handling
 
-## My Contribution
+## Project Files
 
-Contributed to developing and testing the 3D game application and worked on game movement, obstacles, collision detection, and score tracking.
+The project contains Python modules for:
+
+- Player/ship
+- Asteroids
+- Weapons
+- Power-ups
+- Shield
+- Game scenes
+- Background
+- Collision/entity handling
+- Sprites and spritesheets
+- Game utilities
 
 ## Internship
 
-Hope Foundation  
-3D Game Development Intern  
-March 2025
+**Organization:** Hope Foundation  
+**Role:** 3D Game Development Intern  
+**Date:** March 2025
